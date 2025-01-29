@@ -210,7 +210,7 @@ A reporting system might denormalize data to generate quick reports, despite som
 
 
 
-YT LINKS :[Vivek Gupta](https://youtu.be/2LOpVPMiGUw?si=6_RlmMUln4L9ghxq)
-          [Gate Smashers Playlist](https://youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas&si=bfc4luA78RhDiYVl)
+YT LINKS :-[Vivek Gupta](https://youtu.be/2LOpVPMiGUw?si=6_RlmMUln4L9ghxq)
+          -[Gate Smashers Playlist](https://youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas&si=bfc4luA78RhDiYVl)
 
 
