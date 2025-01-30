@@ -207,9 +207,6 @@ A reporting system might denormalize data to generate quick reports, despite som
 
 ---
 
-
-# Database Concepts - README
-
 ## 17. What is Functional Dependency?
 Functional Dependency (FD) is a relationship between two attributes in a database, where one attribute uniquely determines the value of another attribute. In simpler terms, if you know the value of one attribute, you can determine the value of another.
 
