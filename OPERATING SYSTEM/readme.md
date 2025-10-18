@@ -168,3 +168,5 @@ Direct mapping assigns each block to a fixed location, whereas associative mappi
 | Execution    | Multiple tasks on one CPU      | Multiple CPUs execute tasks  |
 | Example      | Running multiple apps         | Servers with multiple processors |
 
+
+YT LINKS :-[LOVE BABBAR ONE SHOT OS](https://www.youtube.com/watch?v=3obEP8eLsCw&t=6787s)
